@@ -1,4 +1,4 @@
-[Демонстрация работы](https://github.com/Bloodies/Telegram-to-do-bot/blob/Bloodies/docs/onwork.gif)
+[Демонстрация работы](https://github.com/Bloodies/Telegram-todo-bot/blob/Bloodies/docs/onwork.gif)
 
 Предмет: разработка чат бота (telegram) для работы со списком дел
 
